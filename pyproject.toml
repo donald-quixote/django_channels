@@ -9,4 +9,5 @@ dependencies = [
     "channels-redis>=4.3.0",
     "daphne>=4.2.1",
     "django>=6.0",
+    "selenium>=4.39.0",
 ]
